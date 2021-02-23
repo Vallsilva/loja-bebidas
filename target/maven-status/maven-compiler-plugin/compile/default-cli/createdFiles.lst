@@ -1,0 +1,6 @@
+br\ApplicationLoja.class
+br\model\Cliente.class
+br\repository\ClienteRepository.class
+br\Controllers\ClienteController.class
+br\model\Funcionario.class
+br\model\Pessoa.class
